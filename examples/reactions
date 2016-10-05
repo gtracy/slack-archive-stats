@@ -1,0 +1,15 @@
+    {
+        "type": "message",
+        "user": "U02LGJTNQ",
+        "text": "The two trays of sensors Josh had sitting out were all built with stiff springs from Gardner. Likely the test fixture was doing it\u2019s job and accurately failing the sensors. The sensors that were failing were 2lbf higher than the sensors which were passing. Using the forces measured here, the stiff sensors would fall in the 8-9 lbf range. On that note, UEI has separated out all Gardner springs. They have ~2000 fox valley springs in stock and 2k more ordered.",
+        "ts": "1473967792.000031",
+        "reactions": [
+            {
+                "name": "boom",
+                "users": [
+                    "U024JLC01"
+                ],
+                "count": 1
+            }
+        ]
+    },

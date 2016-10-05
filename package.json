@@ -1,0 +1,29 @@
+{
+  "name": "slack-archive-stats",
+  "version": "0.0.1",
+  "author": "Greg Tracy",
+  "description": "A Slack Archive analyzer.",
+  "keywords": [
+    "slack"
+  ],
+  "bugs": "https://github.com/gtracy/slack-archive-stats/issues",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "promise": "^7.1.1",
+    "travesty": "0.1.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=5.6.0",
+    "npm": ">=3.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gtracy/slack-archive-stats.git"
+  },
+  "scripts": {
+    "start": "node lib/go.js"
+  }
+}

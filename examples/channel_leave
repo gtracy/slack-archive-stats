@@ -1,0 +1,5 @@
+{ user: 'U024JM990',
+  type: 'message',
+  subtype: 'channel_leave',
+  text: '<@U024JM990|david> has left the channel',
+  ts: '1460585038.000002' }
